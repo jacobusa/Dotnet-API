@@ -1,0 +1,2 @@
+- Set ASPNETCORE_ENVIRONMENT=Development in your environment to run in debug mode.
+- Replace connection string in appsettings.json with connection string of your postgres database
